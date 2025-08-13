@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarajmishraji&label=Profile%20views&color=0e75b6&style=flat" alt="adityarajmishraji" /> </p>
 
-- 🔭 You can check-out my Portfolio[here](https://portfolio-adi-main-ubrf.vercel.app/)
+- 🔭 You can check-out my Portfolio and Catch-up  [here](https://portfolio-adi-main-ubrf.vercel.app/)
 
 - 🌱 I’m currently learning **Devops Culture**
 
